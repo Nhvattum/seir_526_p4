@@ -3,6 +3,12 @@
 # Project 4 - Pitch:
 This is a musician lesson app where the user can login, and connect live with a musician that is offering lessons.  Both the student and the teacher will have their own profiles.  The student will be able to scroll through a list of teachers and find the one that is experienced with the instrument that they would like to learn.  The student can then book an appointment with the teacher on our platform, and will be provided with a link to a zoom room to meet.
 
+
+## STRETCH GOALS
+- Chat feature between students and teachers
+- Teacher will have a calendar to schedule time for lessons
+
+
 ## Working Title: Music Platform
 
 
@@ -33,10 +39,9 @@ Table user {
 
 ## Frontend
 - Searchbar for teacher to search for student with add student button
-- Direct message feature between student and teacher once they are connected
-    - Zoom link will also be copy and pasted in the direct message feature
-- *** Teacher will have a calendar to schedule time for lessons
+- Upon payment, Zoom link will be distributed
 - Will use Stripe to pay for lessons with teacher
+
 
 ## Questions
 - How do you plan on learning/implementing this new technology?
