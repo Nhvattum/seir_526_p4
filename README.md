@@ -52,12 +52,8 @@ Table user {
 
 ## Day-to-Day Breakdown
 
-Friday:  Finalize planning, Build backend, initiate Git repo 
-Saturday:  Work
-Sunday:  Work
-Monday:  Work
-Tuesday:  Work
-Wednesday:  Work
+Daily Schedule is on our team trello board 😃:
+https://trello.com/b/zTEYHQvx/p3-worktime
 
 
 ## Wireframes
